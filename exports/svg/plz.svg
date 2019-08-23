@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>plz</title>
+    <desc>Created with Sketch.</desc>
+    <g id="plz" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="48" height="48" rx="6"></rect>
+        <path d="M4.58,37 L4.58,10.32 L11.42,10.32 C15.86,10.32 18.06,12.64 18.06,17.36 L18.06,19 C18.06,23.68 16.3,26.52 11.22,26.52 L9.7,26.52 L9.7,37 L4.58,37 Z M9.7,14.36 L9.7,22.36 L10.54,22.36 C12.5,22.36 12.9,21.24 12.9,19.04 L12.9,17.2 C12.9,15.48 12.5,14.36 10.78,14.36 L9.7,14.36 Z M19.86,37 L19.86,10.32 L24.98,10.32 L24.98,32.52 L31.46,32.52 L30.98,37 L19.86,37 Z M32.26,37 L32.26,33.56 L39.26,14.88 L32.94,14.88 L32.94,10.32 L44.74,10.32 L44.74,14.2 L38.1,32.44 L44.98,32.44 L44.38,37 L32.26,37 Z" id="PLZ" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

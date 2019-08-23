@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>um</title>
+    <desc>Created with Sketch.</desc>
+    <g id="um" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="48" height="48" rx="6"></rect>
+        <path d="M6.26,10.32 L11.42,10.32 L11.42,30.64 C11.42,32.2 11.9,33.04 13.06,33.04 C14.3,33.04 14.66,32.08 14.66,30.64 L14.66,10.32 L19.86,10.32 L19.86,30.32 C19.86,35.04 17.7,37.36 12.98,37.36 C8.34,37.36 6.26,35.12 6.26,30.24 L6.26,10.32 Z M36.7,37 L36.7,28.48 C36.7,24.36 36.74,18.52 36.82,15.24 L36.66,15.24 C36.1,20.56 34.94,31.36 34.22,37 L29.86,37 C29.26,31.16 28.1,20.16 27.54,15.16 L27.38,15.16 C27.46,18.28 27.58,24.08 27.58,28.68 L27.58,37 L22.94,37 L22.94,10.32 L30.3,10.32 C30.98,15.4 31.78,22.04 32.1,25.68 L32.18,25.68 C32.62,21.8 33.5,16.2 34.3,10.32 L41.66,10.32 L41.66,37 L36.7,37 Z" id="UM" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

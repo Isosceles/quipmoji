@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>press_f</title>
+    <desc>Created with Sketch.</desc>
+    <g id="press_f" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#9D9D9D" x="0" y="0" width="48" height="48" rx="6"></rect>
+        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="4" y="0" width="40" height="40" rx="5"></rect>
+        <polygon id="F" fill="#000000" fill-rule="nonzero" points="11.93 24 11.93 6.19 23.344 6.19 23.344 9.18 15.492 9.18 15.492 13.704 22.876 13.704 22.876 16.642 15.492 16.642 15.492 24"></polygon>
+    </g>
+</svg>
